@@ -122,4 +122,5 @@ The project consists of three interconnected Hugging Face spaces:
 ## 👤 Author
 
 Project by **Andriana**
+
 🔗 GitHub: [https://github.com/Andrianiniaina/0-Deployment]
